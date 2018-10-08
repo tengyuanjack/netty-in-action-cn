@@ -8,6 +8,7 @@ import io.netty.channel.SimpleChannelInboundHandler;
 import io.netty.util.CharsetUtil;
 
 /**
+ * 已验证
  * 代码清单 2-3 客户端的 ChannelHandler
  *
  * @author <a href="mailto:norman.maurer@gmail.com">Norman Maurer</a>

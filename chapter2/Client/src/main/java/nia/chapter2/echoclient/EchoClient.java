@@ -11,6 +11,7 @@ import io.netty.channel.socket.nio.NioSocketChannel;
 import java.net.InetSocketAddress;
 
 /**
+ * 已验证
  * 代码清单 2-4 客户端的主类
  *
  * @author <a href="mailto:norman.maurer@gmail.com">Norman Maurer</a>
